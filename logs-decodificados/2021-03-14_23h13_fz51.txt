@@ -1,0 +1,13 @@
+[INÍCIO DO LOG - 14/03/2021 23:13 UTC]
+
+"o sinal apareceu do nada, como um apito distorcido"
+"os ponteiros do relógio travaram às 23h13"
+"a TV ligou com tela preta e ficou emitindo uma voz mecânica: 'Dorme primeiro... depois acorda'"
+
+frequência registrada: 51.01 MHz
+zona de interferência: ponto isolado na serra
+
+efeito colateral: náusea, vertigem e sensação de estar sendo observado
+
+encerramento do teste às 23h21
+```
