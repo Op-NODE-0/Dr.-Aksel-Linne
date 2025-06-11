@@ -1,0 +1,13 @@
+```
+[INÍCIO DO LOG - 22/07/2022 03:12AM UTC]
+
+"o reflexo piscou antes de mim"
+"ouvi minha própria voz, mas com atraso de 12s"
+"o artefato girou sozinho"
+"luz azul, mas não havia tela ligada"
+
+sinal detectado na frequência 57.02 MHz
+ruído identificado como similar a batimentos cardíacos
+
+recomendo não continuar testes nesse nível
+```

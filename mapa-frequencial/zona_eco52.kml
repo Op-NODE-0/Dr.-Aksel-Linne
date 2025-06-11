@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Zona ECO52</name>
+    <description>Área onde o sinal da Frequência Zero foi mais intenso. Período: Junho 2022.</description>
+
+    <Placemark>
+      <name>Eco52 - Ponto Inicial</name>
+      <description>Primeira ocorrência registrada da interferência. Sons metálicos e luz azul detectados.</description>
+      <Point>
+        <coordinates>-43.1729,-22.9068,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Eco52 - Ruptura Auditiva</name>
+      <description>Relatos de zumbido persistente e alucinações auditivas. Equipamentos desativados.</description>
+      <Point>
+        <coordinates>-43.1805,-22.9035,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Eco52 - Zona Silenciada</name>
+      <description>Nenhum sinal detectado. GPS instável. Anomalia potencialmente em repouso.</description>
+      <Point>
+        <coordinates>-43.1852,-22.9097,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>

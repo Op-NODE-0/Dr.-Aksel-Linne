@@ -1,0 +1,16 @@
+capturas-frequencia-zero/
+├── README.md
+├── manifesto.txt
+├── artefato-instrucoes/
+│   └── montagem_manual.pdf
+├── logs-decodificados/
+│   ├── 2021-03-14_23h13_fz51.txt
+│   ├── 2022-07-22_anomalia_eco57.txt
+├── audio-frequencias/
+│   ├── freq_33_ruptura.wav
+│   ├── freq_52_corrompida.mp3
+├── frames_corrompidos/
+│   ├── img_033_glitch.png
+│   ├── reflexo_tras_mim.jpg
+└── mapa-frequencial/
+    └── zona_eco52.kml
